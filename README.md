@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 **aluna** 
+- 🔭 **estudante** 
 - 🌱 *aprendendo a progamar em :scrath, javascript.**
 - 👤 aulas de https://pt.wikipedia.org/wiki/Pensamento_computacional
