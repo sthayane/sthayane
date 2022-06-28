@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently a student📚
-- 🌱 I'm learning to program...
-- 👤 school profile😌
-- 🤔 I try to give the best of me🤧
-- 💬 Ask me about just the basic haha...
-- ⚡ Fun fact:I don't know🤔 ...
+- 🔭 **aluna** 
+- 🌱 *aprendendo a progamar em :scrath, javascript.**
+- 👤 aulas de https://pt.wikipedia.org/wiki/Pensamento_computacional
